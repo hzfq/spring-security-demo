@@ -29,5 +29,3 @@ build/
 
 ### VS Code ###
 .vscode/
-spring-security-jpa-demo/src/main/resources/static/
-spring-security-jpa-demo/src/main/resources/templates/
